@@ -1,0 +1,44 @@
+﻿.img {
+    height: 20px;
+    background-size: 40%;
+    -o-background-size: 40%;
+}
+
+.img-check {
+    background-image: url("images/icheck-80.png");
+}
+
+.img-delete {
+    background-image: url("images/iwrong-80.png");
+}
+
+.img-timer {
+    background-image: url("images/icon-timer.png");
+}
+
+.img-add {
+    background-image: url("images/icon-add.png");
+}
+
+.img-services {
+    background-image: url("images/icon-services.png");
+}
+
+.img-upload {
+    background-image: url("images/icon-uploadToCloud.png");
+}
+
+.img-question-emo {
+    background-image: url("images/iquestion-80.png");
+}
+
+.img-header {
+    width: 60px;
+    height: 60px;
+}
+
+.img-bg-props {
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
